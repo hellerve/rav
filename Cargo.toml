@@ -1,0 +1,8 @@
+[package]
+name = "rav"
+version = "0.1.0"
+authors = ["hellerve <veit@veitheller.de>"]
+
+[dependencies]
+rand = "*"
+byteorder = "*"
